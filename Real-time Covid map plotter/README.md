@@ -14,7 +14,7 @@ coronavirus** in each country.
 * The dataplot in the map in the software will keep on updating by hitting the refresh button, as and when the information on the site is updated.
 * Some of the countries in the map might be ‘uncoloured’ (especially in Africa). This is either due to no active cases present in these countries/regions or the data entry of these countries/regions might not be updated in the website from which information is taken.
 
-#### The complete procedure of the creation of the map using the ArcGis map software can be seen in the linked [video](https://drive.google.com/file/d/12TBUueaU31_4shZEf9CgblZws1qpZuPM/view) 
+#### The complete procedure of the creation of the map using the ArcGis map software can be seen in the linked [video](https://drive.google.com/file/d/12TBUueaU31_4shZEf9CgblZws1qpZuPM/view?usp=sharing) 
 
 ### The final map visualization (as of 12th April 2020) from ArcGis can be seen below - 
 ![image](https://github.com/Sarthak-22/Python-Projects/blob/main/Real-time%20Covid%20map%20plotter/Coronavirus%20world%20plot.jpg)
